@@ -14,7 +14,7 @@
 <div>
   <a href="mailto:wofbf2@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wofbf2@gmail.com"/>
-    # wofbf2@gmail.com
+    wofbf2@gmail.com
   </a>
 </div>
 <!--
