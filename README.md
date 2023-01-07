@@ -10,9 +10,10 @@
   <img src="https://img.shields.io/badge/Java-006600?style=for-the-badget&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badget&logo=Spring Boot&logoColor=white">
 </div>
+<br>
 <div>
   <a href="mailto:wofbf2@gmail.com">
-    <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wofbf2@gmail.com"/>
     wofbf2@gmail.com
   </a>
 </div>
