@@ -11,7 +11,10 @@
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badget&logo=Spring Boot&logoColor=white">
 </div>
 <div>
-  <a href="mailto:wofbf2@gmail.com"></a>
+  <a href="mailto:wofbf2@gmail.com">
+    <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
+    wofbf2@gmail.com
+  </a>
 </div>
 <!--
 **hajaeryul/hajaeryul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
