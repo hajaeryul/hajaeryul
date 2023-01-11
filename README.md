@@ -1,6 +1,6 @@
 ### 하재률 hajaeryul 👋
 
-<div><h1>📚 STACKS</h1></div>
+<div><h3>📚 STACKS</h1></div>
 <div>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badget&logo=CSS3&logoColor=white">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badget&logo=HTML5&logoColor=white">
@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badget&logo=Spring Boot&logoColor=white">
 </div>
 <br>
-<div><h1>🤝 CONTACT ME</h1></div>
+<div><h3>🤝 HOW TO REACH ME?</h1></div>
 <div>
   <a href="mailto:wofbf2@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wofbf2@gmail.com"/>
