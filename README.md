@@ -11,12 +11,13 @@
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badget&logo=Spring Boot&logoColor=white">
 </div>
 <br>
-<div><h3>🤝 HOW TO REACH ME?</h1></div>
 <div>
   <a href="mailto:wofbf2@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wofbf2@gmail.com"/>
     wofbf2@gmail.com
   </a>
+  <a href="https://www.notion.so/5ffd58dbc57941d99deba9c9c6936f37">
+    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Ntion&logoColor=white&link=https://www.notion.so/5ffd58dbc57941d99deba9c9c6936f37"/>
 </div>
 <!--
 **hajaeryul/hajaeryul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
