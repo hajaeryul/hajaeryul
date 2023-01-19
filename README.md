@@ -18,8 +18,8 @@
   </a>
 </div>
 <div>
-  <a href="https://www.notion.so/5ffd58dbc57941d99deba9c9c6936f37">
-    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Ntion&logoColor=white&link=https://www.notion.so/5ffd58dbc57941d99deba9c9c6936f37"/>
+  <a href="[https://www.notion.so/5ffd58dbc57941d99deba9c9c6936f37](https://kindhearted-cause-290.notion.site/5ffd58dbc57941d99deba9c9c6936f37)">
+    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://kindhearted-cause-290.notion.site/5ffd58dbc57941d99deba9c9c6936f37"/>
 </div>
 <!--
 **hajaeryul/hajaeryul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
