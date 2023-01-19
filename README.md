@@ -16,6 +16,8 @@
     <img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wofbf2@gmail.com"/>
     wofbf2@gmail.com
   </a>
+</div>
+<div>
   <a href="https://www.notion.so/5ffd58dbc57941d99deba9c9c6936f37">
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Ntion&logoColor=white&link=https://www.notion.so/5ffd58dbc57941d99deba9c9c6936f37"/>
 </div>
